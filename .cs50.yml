@@ -1,6 +1,4 @@
 lab50:
   window:
-    - editor
     - readme
-  files:
-    - !include instruction.txt
+ 
