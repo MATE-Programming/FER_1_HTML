@@ -1,23 +1,21 @@
 ![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/lab_1.svg?raw=true)
 # Практическое задание на создание HTML-страниц.
-     Используя теги по смыслу исходя 
-     структуры сайта. Используйте в части 
-    "Контент" разнообразные теги 
-     (form , input, select, radio, checkbox, span, таблицы, картинки)
+     Задание: Выберите и сверстайте структуру сайта(перевести в формат HTML) используя теги по смыслу (Семантика)
+     Подсказка: Используйте <header></header>  <nav></nav> <footer></footer>
 
-#### 1. Создайте следующий сайт следующего вида
+#### 1. Макет для верстки на HTML
 ![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/FER_1/screen_1.png?raw=true)
 
 
 {% next "Открыть задание 2" %}
-#### 2. Создайте следующий сайт следующего вида
+#### 2. Макет для верстки на HTML
 ![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/FER_1/screen_1.png?raw=true)
 
 
 {% next "Открыть задание 3" %}
-#### 3. Создайте следующий сайт следующего вида
+#### 3. Макет для верстки на HTML
 ![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/FER_1/screen_1.png?raw=true)
 
 {% next "Открыть задание 4" %}
-#### 4. Создайте следующий сайт следующего вида
+#### 4. Макет для верстки на HTML
 ![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/FER_1/screen_1.png?raw=true)
