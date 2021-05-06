@@ -5,3 +5,4 @@ lab50:
     - terminal
   files:
     - !include instruction.txt
+    - !include index.html
