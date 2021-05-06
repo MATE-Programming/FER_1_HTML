@@ -2,6 +2,7 @@ lab50:
   window:
     - editor
     - readme
+    - terminal
     - browser
   files:
     - !include instruction.txt
